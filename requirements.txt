@@ -6,3 +6,6 @@ altair
 numpy
 pandas
 warnings
+pyngrok
+plotly.express
+pandas
